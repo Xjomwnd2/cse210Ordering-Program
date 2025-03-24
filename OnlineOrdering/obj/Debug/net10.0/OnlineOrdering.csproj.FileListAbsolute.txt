@@ -1,0 +1,15 @@
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.exe
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.deps.json
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.runtimeconfig.json
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\bin\Debug\net10.0\OnlineOrdering.pdb
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.AssemblyInfoInputs.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.AssemblyInfo.cs
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.csproj.CoreCompileInputs.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.sourcelink.json
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\refint\OnlineOrdering.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.pdb
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\OnlineOrdering.genruntimeconfig.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\WK4CSE210\cse210Ordering-Program\OnlineOrdering\obj\Debug\net10.0\ref\OnlineOrdering.dll
